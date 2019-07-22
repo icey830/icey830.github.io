@@ -18,7 +18,7 @@
 
   var buttonClass = 'github-button';
 
-  var iframeURL = 'https://' + (/* istanbul ignore next */  'git.elvns.com') + '/button.html';
+  var iframeURL = 'https://' + (/* istanbul ignore next */  'git.elvns.com') + '/btn/button.html';
 
   var apiBaseURL = 'https://api.github.com';
 
